@@ -45,5 +45,5 @@ This project was a great way to reinforce core JavaScript concepts and build a c
 
 ## 🔗 Other Projects:
 
-- [🃏 Card Battle Game](https://zunaid990.github.io/zunaids-card-battle/) – A fun two-player game using the Deck of Cards API.
+- [🃏 Card Battle Game](https://github.com/Zunaid990/zunaids-card-battle.git) – A fun two-player game using the Deck of Cards API.
 - [⏱️ Stopwatch App](https://github.com/Zunaid990/Stopwatch-app.git) – A simple stopwatch with start, pause, and reset functions.
